@@ -4,7 +4,7 @@ description: "Product Manager at Amazon"
 paragraph: "Driven by user data and customer feedback, I strive to build products that people use."
 domain: hjaffal.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https:/hjaffal.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /website/      # place folder name if the site is served in a subfolder
+#baseurl: /website/      # place folder name if the site is served in a subfolder
 
 
 
