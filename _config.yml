@@ -109,6 +109,11 @@ compress_html:
       - development
       - stage
 
+jekyll_admin:
+  hidden_links:
+    - configuration
+  homepage: "pages"
+
 exclude:
   [
     "README.md",

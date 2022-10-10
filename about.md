@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>17 years of experience in building innovative software products. I am currently working as a Sr. Product Manager at Amazon in Luxembourg, where i am following my customer obsession passion to secure your Amazon shipments.
@@ -16,4 +17,3 @@ Before that, I was in product roles involving product design, analysis, and deve
 </p>
 <p>
 Driven by the passion to empower civil society organizations in Lebanon, I volunteer to help several NGOs building their online presence and making use of technology in their daily work. I served as Director of Administration of the PMI – Lebanon 2011-2013.</p>
- 
