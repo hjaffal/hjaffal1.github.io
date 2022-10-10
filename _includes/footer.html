@@ -1,11 +1,11 @@
 <footer class="footer-main">
     {{ site.title }} © {{ site.time | date: '%Y' }}
 
-    {% if page.title != "Home"%}
+    {% if page.title != "Home" and page.title != "About"%}
     <a class="link" href="{{ site.url }}/feed.xml" target="_blank">
         <i class="fa-solid fa-rss"></i>
     </a>
-    {% endif %}
+    {% endif %} 
   
 </footer>
  
