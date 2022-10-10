@@ -25,7 +25,7 @@ url: https://hjaffal.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-72024815-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
