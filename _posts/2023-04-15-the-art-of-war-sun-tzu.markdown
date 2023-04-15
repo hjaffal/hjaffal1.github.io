@@ -1,16 +1,17 @@
 ---
 title: "What is "The Art of War" book by Sun Tzu"
 layout: post
-date: 2016-02-24 22:48
+date: 2023-04-15 13:4008
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- book review
+- art of war
+- self development
+- strategy
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: hjaffal
+description: A summary of the book "The Art of War" by "Sun Tzu"
 ---
 
 ## Summary:
