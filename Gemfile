@@ -9,6 +9,9 @@ group :jekyll_plugins do
     gem "jekyll-paginate-v2", "~> 2.0"
     gem "html-proofer"
     gem 'jekyll-admin' 
+    gem 'faraday-retry'
+    gem 'liquid', '~> 4.0.4'
+
 end
 
 gem "webrick", "~> 1.7"

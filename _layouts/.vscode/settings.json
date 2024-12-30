@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+      "*.html": "jekyll",
+      "*.md": "markdown"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }

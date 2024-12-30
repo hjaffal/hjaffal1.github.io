@@ -1,15 +1,11 @@
 ---
-title: "What is "The Art of War" book by Sun Tzu"
+title: "What is 'The Art of War' book by Sun Tzu"
 layout: post
-date: 2023-04-15 13:4008
+date: 2023-04-15 12:00:00 +0000
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- book review
-- art of war
-- self development
-- strategy
-category: blog
+tags: [war, tactics, ancient]
+category: [blog]
 author: hjaffal
 description: A summary of the book "The Art of War" by "Sun Tzu"
 ---
@@ -19,11 +15,18 @@ description: A summary of the book "The Art of War" by "Sun Tzu"
 You can pick as item to see how to apply in markdown.
 
 #### Especial Elements
+- [Summary:](#summary)
+    - [Especial Elements](#especial-elements)
+    - [External Elements](#external-elements)
 - [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
+- [Side-by-side](#side-by-side)
 - [Star](#star)
 - [Especial Breaker](#especial-breaker)
 - [Spoiler](#spoiler)
+- [Gist](#gist)
+- [Codepen](#codepen)
+- [Slideshare](#slideshare)
+- [Videos](#videos)
 
 #### External Elements
 - [Gist](#gist)

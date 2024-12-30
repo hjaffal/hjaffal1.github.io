@@ -1,12 +1,10 @@
 ---
 title: "Markdown Common Elements"
 layout: post
-date: 2016-02-24 22:44
+date: 2023-02-24 12:00:00 +0000
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- elements
+tag: [markdown, elements]
 star: true
 category: blog
 author: johndoe
